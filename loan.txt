@@ -1,0 +1,17 @@
+LOAN TERMS AND CONDITION FOR ZESTMONEY
+To avail this loan customers must follow the application process set by ZestMoney and its affiliated lending partners, submit all the required documents and get approved for the loan. In case (s) of rejection upGrad will not stand responsible.
+ZestMoney and its affiliated lending partners at its sole discretion can alter or modify the terms of EMI or reject (on the basis of the customer's history, amount of transactions etc.), or withdraw the entire EMI scheme.
+Customers are expected to inquire about the status of their respective EMI requests etc from ZestMoney. upGrad shall not be responsible for any disputes regarding the non-conversion of a transaction into EMI.
+Customers are expected to repay all of their EMIs on or before the due date as communicated to them by ZestMoney. This payment can be automatically collected using a signed & verified NACH from their bank account or using Other payment modes like netbanking, debit card via payment gateway.
+If the relevant EMI amount is not available for collection by ZestMoney in full on each due date we will charge a missed payment fee of INR 250 and a variable fee as applicable.
+In case a student has paid the fees via Zest Zero Percent EMI option available on upGrad platform and asks for a refund as per the policy, the Zest loan will be cancelled and any EMI paid by student will be refunded to him subject to deduction of 1% per month of loan amount if the same is cancelled after more than a month of loan approval.
+
+E.g.. If a loan amount is 210,000 and it was approved on December 1, 2018.
+Scenario 1 - In case loan is cancelled on January 10, 2019, it is more than one month hence charges will be [2,100 (210,000*1%)*1 month].
+Scenario 2 - In case it is cancelled before January 1, 2019, there will be no charges.
+Scenario 3 - In case it is cancelled on February 14, 2019, charges will be 4200 [(210,000 * 1%) * 2 months].
+Have more questions? Browse through ZestMoney’s FAQs -https://zestmoney.in/faq/
+
+upGrad does not charge any processing fee for availing EMI. Other T&Cs and documentation requirements specified by the lending partner shall continue to apply as per the loan agreement. This is for indicative purposes only, your EMI payments may differ with total order amount and additional bank charges, if any.
+
+In case of loan applications , upGrad has the right to transfer your credentials to the respective banks relationship manager to take the process ahead.
